@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/drawable/orange2_button.xml" value="0.27" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/drawable/orange3_button.xml" value="0.27" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/drawable/orange_button.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_add_review.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_card_details.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_change_password.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_delete_profile.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_edit_profile.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_list_review.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_login.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_orderaccept.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_pay_methods.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_payment_method.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_payment_success.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_save_card_details.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_side_menu.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Online_Food_Delivery_App/app/src/main/res/layout/activity_update_card_details.xml" value="0.3375" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.261" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/background_gradient.xml" value="0.2425" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/background_gradient2.xml" value="0.254" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/background_gradient_light.xml" value="0.2545" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/form_inputs.xml" value="0.215" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/gradient.xml" value="0.2555" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.261" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/login_form_inputs.xml" value="0.2555" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/main_round_button.xml" value="0.187" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/register_form_inputs.xml" value="0.215" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/round_button.xml" value="0.267" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/round_button1.xml" value="0.2625" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/round_button2.xml" value="0.254" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/round_button3.xml" value="0.261" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/drawable/round_button4.xml" value="0.2555" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_add_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_add_review.xml" value="0.176" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_change_password.xml" value="0.2" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_delete_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_edit_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_list_review.xml" value="0.26875" />
+=======
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_change_password.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_delete_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+>>>>>>> 4c692193a7825a036cf5581ec8b9a953004cdcca
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_side_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/activity_user_account.xml" value="0.264" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/Shyaminda/Documents/Android_Studio/FoodApp/app/src/main/res/layout/register.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.176" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

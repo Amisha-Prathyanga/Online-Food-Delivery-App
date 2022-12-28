@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Orderaccept">
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="451dp"
+        android:layout_height="829dp"
+        app:srcCompat="@drawable/background_gradient_light" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="188dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:width="150dp"
+
+        android:height="30dp"
+        android:background="@drawable/round_button1"
+        android:paddingLeft="1dp"
+        android:paddingTop="1dp"
+        android:paddingRight="1dp"
+        android:paddingBottom="1dp"
+
+        android:text="END"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.758" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="265dp"
+        android:layout_height="113dp"
+        android:text="Your Order Is Accepted!"
+        android:textColor="@color/btuttons"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.58" />
+
+    <ImageView
+        android:id="@+id/tick"
+        android:layout_width="167dp"
+        android:layout_height="149dp"
+        app:srcCompat="@drawable/success"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="240dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

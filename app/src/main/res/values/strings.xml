@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Instania</string>
+    <string name="welcome">Welcome to</string>
+    <string name="instania">Instania</string>
+    <string name="login"><b>Log In</b></string>
+    <string name="signup"><b>Sign Up</b></string>
+
+    <string name="loginhere"><b>Log In Here</b></string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="min8charactores">Minimum 8 Characters</string>
+    <string name="frogotpassword">Frogot Your Password ?</string>
+    <string name="didnthaveaccount">Didn\'t Have and Account ?</string>
+
+    <string name="registerhere"><b>Register Here</b></string>
+    <string name="fullname">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="mobile">Mobile</string>
+    <string name="birthdate">Birth Date</string>
+    <string name="regpassword">Password</string>
+    <string name="reenterpassword">Re-Enter Password</string>
+    <string name="register"><b>Register</b></string>
+    <string name="alreadyhaveaccount">Already Have an Account ?</string>
+    <string name="passwordPattern">Password Should Contain Minimum 8 Characters, At Least One Letter and At least One Digit</string>
+
+    <string name="logout">Log Out</string>
+    <string name="name">Name</string>
+    <string name="editprofileinaccount"><b>Edit Profile</b></string>
+    <string name="changepasswordinaccount"><b>Change Password</b></string>
+    <string name="deleteprofileinaccount"><b>Delete Profile</b></string>
+
+    <string name="editprofile"><b>Edit Your Profile</b></string>
+    <string name="savechanges"><b>Save Changes</b></string>
+
+    <string name="changeyourpassword"><b>Change Your Password</b></string>
+    <string name="currentpassword">Current Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="passwordInfo2">Password must contain at least 8 characters, one lowecase letter, one uppercase letter and number</string>
+
+    <string name="deleteprofile"><b>Delete Your Profile</b></string>
+    <string name="enterpassword">Enter Your Password</string>
+    <string name="deleteprofilewarning"><b>This action cannot be undone and your profile will be deleted permenently with your all details. </b></string>
+    <string name="deleteProfile"><b>Delete Profile</b></string>
+
+    <string name="home"><b>Home</b></string>
+    <string name="myprofile"><b>My Profile</b></string>
+    <string name="myorders"><b>My Orders</b></string>
+    <string name="foodmenu"><b>Food Menu</b></string>
+    <string name="contactus"><b>Contact Us</b></string>
+
+
+    <string name="review"><b>All Reviews</b></string>
+    <string name="card"><b>My Cards</b></string>
+    <string name="addreview"><b>Add New Review</b></string>
+    <string name="addreviewtopic">Review Topic</string>
+    <string name="reviewdescription">Review Description</string>
+    <string name="addreviewbtn"><b>Save Review</b></string>
+    <string name="addyourreview"><b>Add Your Review</b></string>
+
+    <string name="Foodname">Barbeque Chicken Pizza</string>
+    <string name="Quantity_txt">Quantity</string>
+    <string name="title_activity_side_menu2">SideMenu2</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
